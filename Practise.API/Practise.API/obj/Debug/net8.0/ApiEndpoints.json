@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Practise.API.Controllers.StudentsController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

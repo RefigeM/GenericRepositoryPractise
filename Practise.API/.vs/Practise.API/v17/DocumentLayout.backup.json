@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\repositories\\concretes\\trepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\repositories\\concretes\\trepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\repositories\\abstracts\\itrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\repositories\\abstracts\\itrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\services\\implements\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\services\\implements\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\services\\abstracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\services\\abstracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\practise.api\\practise.api\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A2B5C-B50E-472B-8221-C681B8EE9A4C}|Practise.API\\Practise.API.csproj|solutionrelative:practise.api\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Repositories\\Abstracts\\ITRepository.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Repositories\\Abstracts\\ITRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Repositories\\Abstracts\\ITRepository.cs",
+              "RelativeToolTip": "Practise.API\\Repositories\\Abstracts\\ITRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:34:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Repositories\\Concretes\\TRepository.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Repositories\\Concretes\\TRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Repositories\\Concretes\\TRepository.cs",
+              "RelativeToolTip": "Practise.API\\Repositories\\Concretes\\TRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:33:29.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Practise.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:01:57.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Program.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Program.cs",
+              "RelativeToolTip": "Practise.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:58:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Practise.API\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\ServiceRegistration.cs",
+              "RelativeToolTip": "Practise.API\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:58:41.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Services\\Implements\\StudentService.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Services\\Implements\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Services\\Implements\\StudentService.cs",
+              "RelativeToolTip": "Practise.API\\Services\\Implements\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:31:14.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Services\\Abstracts\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Services\\Abstracts\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Services\\Abstracts\\IStudentService.cs",
+              "RelativeToolTip": "Practise.API\\Services\\Abstracts\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:15:25.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Configurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "Practise.API\\Configurations\\StudentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:24:00.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Entities\\Student.cs",
+              "RelativeToolTip": "Practise.API\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:23:24.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Entities\\Group.cs",
+              "RelativeToolTip": "Practise.API\\Entities\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:23:02.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Practise.API\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Practise.API\\Practise.API\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Practise.API\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:21:53.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
