@@ -10,10 +10,11 @@ namespace Practise.API
 	{
 		public static void AddServices(this IServiceCollection services) 
 		{
-			services.AddScoped<IStudentService, StudentService>();
-			services.AddScoped<ITRepository<Student>, TRepository<Student>>();
-			services.AddScoped<ITRepository<Group>, TRepository<Group>>();
+            services.AddScoped<IStudentService, StudentService>();
+            services.AddScoped<IGroupService, GroupService>();
+            services.AddScoped<ITRepository<Student>, TRepository<Student>>();
+            services.AddScoped<ITRepository<Group>, TRepository<Group>>();
 
-		}
-	}
+        }
+    }
 }

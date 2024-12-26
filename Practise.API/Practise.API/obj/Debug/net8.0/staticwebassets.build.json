@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "2pntG14zIIE+7RQY3hp8gzPcymBvSU4jlj6pu/juECA=",
+  "Hash": "shUWHVFpdu30ozMkVErt9pwBd+nu555+oxFWzDa8vIg=",
   "Source": "Practise.API",
   "BasePath": "_content/Practise.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

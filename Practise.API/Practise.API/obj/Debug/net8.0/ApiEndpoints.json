@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "Practise.API.Controllers.GroupsController",
+    "Method": "Get",
+    "RelativePath": "api/Groups",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Practise.API.Controllers.StudentsController",
     "Method": "GetAllAsync",
     "RelativePath": "api/Students",
